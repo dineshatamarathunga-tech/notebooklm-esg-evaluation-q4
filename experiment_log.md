@@ -1,68 +1,89 @@
-# NotebookLM ESG Evaluation Experiment Log
+# NotebookLM Evaluation Experiment Log
 
-## Assessment Question
-Q4 – Evaluating Cloud-Based Technology
+## Project
+Evaluation of Google NotebookLM as a Cloud-Based Educational Assistant
 
-## Tool Evaluated
-Google NotebookLM
-
-## Evaluation Scenario
-
-A postgraduate student was required to prepare an ESG Reporting Standards briefing covering ISSB, GRI, SASB and ESRS sustainability reporting frameworks. NotebookLM was evaluated as a cloud-based AI educational assistant to support research, knowledge synthesis and revision activities.
+## Scenario
+ESG Reporting Standards Study Assistant
 
 ## Sources Used
+- ESG Reporting Standards publications
+- GRI Standards references
+- SASB Standards references
+- Sustainability reporting guidance documents
 
-NotebookLM Fast Research was used to gather ten ESG-related sources including:
+## NotebookLM Features Evaluated
 
-- ISSB Sustainability Disclosure Standards
-- GRI Reporting Standards
-- SASB Standards
-- ESRS and CSRD Reporting Requirements
-- Sustainability Assurance Guidance
-- Corporate Sustainability Reporting Frameworks
+### 1. ESG Briefing Generation
+Purpose:
+Generate a structured briefing on ESG reporting standards.
 
-## Features Evaluated
+Result:
+NotebookLM produced a detailed summary covering GRI, SASB, ISSB and reporting requirements.
 
-1. Source-Grounded Research Assistance
-2. ESG Briefing Generation
-3. Study Guide Generation
-4. Report Generation
-5. Quiz Generation
-6. Mind Map Generation
-7. Audio Overview Generation
+Assessment:
+High quality output with source-grounded information.
 
-## Experiment Results
+---
 
-NotebookLM successfully generated source-grounded outputs across all tested features.
+### 2. Study Guide Generation
+Purpose:
+Support examination preparation.
 
-The ESG briefing accurately summarised major sustainability reporting frameworks and compliance requirements.
+Result:
+Generated learning materials and revision content.
 
-The Study Guide transformed source materials into revision-focused learning content.
+Assessment:
+Useful for student learning and knowledge consolidation.
 
-The Quiz feature generated assessment-style questions that supported active recall learning.
+---
 
-The Mind Map visually organised ESG reporting concepts and relationships.
+### 3. Report Generation
+Purpose:
+Create an academic-style synthesis of uploaded sources.
 
-The Audio Overview converted source materials into a podcast-style discussion that supported alternative learning methods.
+Result:
+Produced structured report sections and key findings.
 
-## Evidence-Based Reflection
+Assessment:
+Improved productivity and document review efficiency.
 
-NotebookLM demonstrated strong usefulness for academic research, revision and knowledge management.
+---
 
-The retrieval-grounded architecture improved output relevance by linking generated responses to uploaded sources.
+### 4. Quiz Generation
+Purpose:
+Evaluate learner understanding.
 
-The platform reduced the effort required to analyse multiple ESG reporting documents while maintaining traceability to original information sources.
+Result:
+Generated multiple assessment questions from source material.
 
-However, generated outputs should still be verified against source documents because summarisation may simplify complex reporting requirements.
+Assessment:
+Useful for self-testing and revision activities.
 
-## Limitations
+---
 
-- Potential hallucination risk
-- Dependence on source quality
-- Over-reliance by students
-- Possible omission of nuanced information
-- Privacy concerns when uploading sensitive documents
+### 5. Mind Map Generation
+Purpose:
+Visualise relationships between ESG concepts.
+
+Result:
+Created structured knowledge map.
+
+Assessment:
+Helpful for conceptual understanding.
+
+---
+
+### 6. Audio Overview
+Purpose:
+Provide alternative learning format.
+
+Result:
+Generated conversational audio summary.
+
+Assessment:
+Supports accessibility and auditory learning preferences.
 
 ## Conclusion
 
-NotebookLM is suitable for limited adoption within higher education environments as a supplementary AI learning assistant. The platform demonstrates significant value for research support, revision activities, knowledge synthesis and academic productivity while requiring appropriate governance and human oversight.
+NotebookLM demonstrated strong capability as an AI-supported educational assistant for ESG learning, research synthesis, revision preparation and knowledge management.
